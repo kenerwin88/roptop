@@ -10,4 +10,5 @@ cask "google-chrome"
 cask "slack"
 cask "obs"
 cask "ngrok"
+cask "docker"
 
