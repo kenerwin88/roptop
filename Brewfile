@@ -1,0 +1,7 @@
+brew "git"
+brew "go"
+cask "visual-studio-code"
+cask "iterm2"
+cask "google-chrome"
+cask "slack"
+cask "obs"
