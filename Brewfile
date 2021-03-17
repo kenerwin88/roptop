@@ -13,6 +13,8 @@ brew "aws-cdk"
 brew "golangci-lint"
 brew "sonar-scanner"
 brew "ripgrep"
+brew "skaffold"
+brew "minikube"
 
 cask "visual-studio-code"
 cask "iterm2"
